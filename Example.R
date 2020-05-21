@@ -1,1 +1,1 @@
-head(mtcars, n=10)
+head(mtcars, n=20)
